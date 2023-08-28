@@ -28,4 +28,8 @@ public class Car {
     public String toString() {
         return "Wheels: " + wheels + "cylinders: " + cylinders + "\n";
     }
+<<<<<<< HEAD
+=======
+
+>>>>>>> delta
 }
